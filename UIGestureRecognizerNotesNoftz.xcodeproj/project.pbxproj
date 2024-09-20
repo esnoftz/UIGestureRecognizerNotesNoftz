@@ -1,0 +1,568 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		044FC6382C9DA89F009650F0 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 044FC6162C9DA89D009650F0 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 044FC61D2C9DA89D009650F0;
+			remoteInfo = UIGestureRecognizerNotesNoftz;
+		};
+		044FC6422C9DA89F009650F0 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 044FC6162C9DA89D009650F0 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 044FC61D2C9DA89D009650F0;
+			remoteInfo = UIGestureRecognizerNotesNoftz;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		044FC61E2C9DA89D009650F0 /* UIGestureRecognizerNotesNoftz.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = UIGestureRecognizerNotesNoftz.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		044FC6372C9DA89F009650F0 /* UIGestureRecognizerNotesNoftzTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = UIGestureRecognizerNotesNoftzTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		044FC6412C9DA89F009650F0 /* UIGestureRecognizerNotesNoftzUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = UIGestureRecognizerNotesNoftzUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		044FC6492C9DA89F009650F0 /* Exceptions for "UIGestureRecognizerNotesNoftz" folder in "UIGestureRecognizerNotesNoftz" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Info.plist,
+			);
+			target = 044FC61D2C9DA89D009650F0 /* UIGestureRecognizerNotesNoftz */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		044FC6202C9DA89D009650F0 /* UIGestureRecognizerNotesNoftz */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				044FC6492C9DA89F009650F0 /* Exceptions for "UIGestureRecognizerNotesNoftz" folder in "UIGestureRecognizerNotesNoftz" target */,
+			);
+			path = UIGestureRecognizerNotesNoftz;
+			sourceTree = "<group>";
+		};
+		044FC63A2C9DA89F009650F0 /* UIGestureRecognizerNotesNoftzTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = UIGestureRecognizerNotesNoftzTests;
+			sourceTree = "<group>";
+		};
+		044FC6442C9DA89F009650F0 /* UIGestureRecognizerNotesNoftzUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = UIGestureRecognizerNotesNoftzUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		044FC61B2C9DA89D009650F0 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		044FC6342C9DA89F009650F0 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		044FC63E2C9DA89F009650F0 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		044FC6152C9DA89D009650F0 = {
+			isa = PBXGroup;
+			children = (
+				044FC6202C9DA89D009650F0 /* UIGestureRecognizerNotesNoftz */,
+				044FC63A2C9DA89F009650F0 /* UIGestureRecognizerNotesNoftzTests */,
+				044FC6442C9DA89F009650F0 /* UIGestureRecognizerNotesNoftzUITests */,
+				044FC61F2C9DA89D009650F0 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		044FC61F2C9DA89D009650F0 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				044FC61E2C9DA89D009650F0 /* UIGestureRecognizerNotesNoftz.app */,
+				044FC6372C9DA89F009650F0 /* UIGestureRecognizerNotesNoftzTests.xctest */,
+				044FC6412C9DA89F009650F0 /* UIGestureRecognizerNotesNoftzUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		044FC61D2C9DA89D009650F0 /* UIGestureRecognizerNotesNoftz */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 044FC64A2C9DA89F009650F0 /* Build configuration list for PBXNativeTarget "UIGestureRecognizerNotesNoftz" */;
+			buildPhases = (
+				044FC61A2C9DA89D009650F0 /* Sources */,
+				044FC61B2C9DA89D009650F0 /* Frameworks */,
+				044FC61C2C9DA89D009650F0 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				044FC6202C9DA89D009650F0 /* UIGestureRecognizerNotesNoftz */,
+			);
+			name = UIGestureRecognizerNotesNoftz;
+			packageProductDependencies = (
+			);
+			productName = UIGestureRecognizerNotesNoftz;
+			productReference = 044FC61E2C9DA89D009650F0 /* UIGestureRecognizerNotesNoftz.app */;
+			productType = "com.apple.product-type.application";
+		};
+		044FC6362C9DA89F009650F0 /* UIGestureRecognizerNotesNoftzTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 044FC64F2C9DA89F009650F0 /* Build configuration list for PBXNativeTarget "UIGestureRecognizerNotesNoftzTests" */;
+			buildPhases = (
+				044FC6332C9DA89F009650F0 /* Sources */,
+				044FC6342C9DA89F009650F0 /* Frameworks */,
+				044FC6352C9DA89F009650F0 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				044FC6392C9DA89F009650F0 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				044FC63A2C9DA89F009650F0 /* UIGestureRecognizerNotesNoftzTests */,
+			);
+			name = UIGestureRecognizerNotesNoftzTests;
+			packageProductDependencies = (
+			);
+			productName = UIGestureRecognizerNotesNoftzTests;
+			productReference = 044FC6372C9DA89F009650F0 /* UIGestureRecognizerNotesNoftzTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		044FC6402C9DA89F009650F0 /* UIGestureRecognizerNotesNoftzUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 044FC6522C9DA89F009650F0 /* Build configuration list for PBXNativeTarget "UIGestureRecognizerNotesNoftzUITests" */;
+			buildPhases = (
+				044FC63D2C9DA89F009650F0 /* Sources */,
+				044FC63E2C9DA89F009650F0 /* Frameworks */,
+				044FC63F2C9DA89F009650F0 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				044FC6432C9DA89F009650F0 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				044FC6442C9DA89F009650F0 /* UIGestureRecognizerNotesNoftzUITests */,
+			);
+			name = UIGestureRecognizerNotesNoftzUITests;
+			packageProductDependencies = (
+			);
+			productName = UIGestureRecognizerNotesNoftzUITests;
+			productReference = 044FC6412C9DA89F009650F0 /* UIGestureRecognizerNotesNoftzUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		044FC6162C9DA89D009650F0 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1600;
+				LastUpgradeCheck = 1600;
+				TargetAttributes = {
+					044FC61D2C9DA89D009650F0 = {
+						CreatedOnToolsVersion = 16.0;
+					};
+					044FC6362C9DA89F009650F0 = {
+						CreatedOnToolsVersion = 16.0;
+						TestTargetID = 044FC61D2C9DA89D009650F0;
+					};
+					044FC6402C9DA89F009650F0 = {
+						CreatedOnToolsVersion = 16.0;
+						TestTargetID = 044FC61D2C9DA89D009650F0;
+					};
+				};
+			};
+			buildConfigurationList = 044FC6192C9DA89D009650F0 /* Build configuration list for PBXProject "UIGestureRecognizerNotesNoftz" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 044FC6152C9DA89D009650F0;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = 044FC61F2C9DA89D009650F0 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				044FC61D2C9DA89D009650F0 /* UIGestureRecognizerNotesNoftz */,
+				044FC6362C9DA89F009650F0 /* UIGestureRecognizerNotesNoftzTests */,
+				044FC6402C9DA89F009650F0 /* UIGestureRecognizerNotesNoftzUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		044FC61C2C9DA89D009650F0 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		044FC6352C9DA89F009650F0 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		044FC63F2C9DA89F009650F0 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		044FC61A2C9DA89D009650F0 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		044FC6332C9DA89F009650F0 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		044FC63D2C9DA89F009650F0 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		044FC6392C9DA89F009650F0 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 044FC61D2C9DA89D009650F0 /* UIGestureRecognizerNotesNoftz */;
+			targetProxy = 044FC6382C9DA89F009650F0 /* PBXContainerItemProxy */;
+		};
+		044FC6432C9DA89F009650F0 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 044FC61D2C9DA89D009650F0 /* UIGestureRecognizerNotesNoftz */;
+			targetProxy = 044FC6422C9DA89F009650F0 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		044FC64B2C9DA89F009650F0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = UIGestureRecognizerNotesNoftz/Info.plist;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = clc.UIGestureRecognizerNotesNoftz;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		044FC64C2C9DA89F009650F0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = UIGestureRecognizerNotesNoftz/Info.plist;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = clc.UIGestureRecognizerNotesNoftz;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		044FC64D2C9DA89F009650F0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		044FC64E2C9DA89F009650F0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		044FC6502C9DA89F009650F0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = clc.UIGestureRecognizerNotesNoftzTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/UIGestureRecognizerNotesNoftz.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/UIGestureRecognizerNotesNoftz";
+			};
+			name = Debug;
+		};
+		044FC6512C9DA89F009650F0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = clc.UIGestureRecognizerNotesNoftzTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/UIGestureRecognizerNotesNoftz.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/UIGestureRecognizerNotesNoftz";
+			};
+			name = Release;
+		};
+		044FC6532C9DA89F009650F0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = clc.UIGestureRecognizerNotesNoftzUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = UIGestureRecognizerNotesNoftz;
+			};
+			name = Debug;
+		};
+		044FC6542C9DA89F009650F0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = clc.UIGestureRecognizerNotesNoftzUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = UIGestureRecognizerNotesNoftz;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		044FC6192C9DA89D009650F0 /* Build configuration list for PBXProject "UIGestureRecognizerNotesNoftz" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				044FC64D2C9DA89F009650F0 /* Debug */,
+				044FC64E2C9DA89F009650F0 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		044FC64A2C9DA89F009650F0 /* Build configuration list for PBXNativeTarget "UIGestureRecognizerNotesNoftz" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				044FC64B2C9DA89F009650F0 /* Debug */,
+				044FC64C2C9DA89F009650F0 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		044FC64F2C9DA89F009650F0 /* Build configuration list for PBXNativeTarget "UIGestureRecognizerNotesNoftzTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				044FC6502C9DA89F009650F0 /* Debug */,
+				044FC6512C9DA89F009650F0 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		044FC6522C9DA89F009650F0 /* Build configuration list for PBXNativeTarget "UIGestureRecognizerNotesNoftzUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				044FC6532C9DA89F009650F0 /* Debug */,
+				044FC6542C9DA89F009650F0 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 044FC6162C9DA89D009650F0 /* Project object */;
+}
